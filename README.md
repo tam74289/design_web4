@@ -44,3 +44,6 @@ https://github.com/Kittipob-K/aw-script-v3.git
    "api_nonce_localhost": false # true = ให้สคริปสร้าง nonce / false = ให้ api-nonce สร้าง nonce (แก้ไข url ใน api-nonce.json ด้วย)
  }
  ```
+
+> ถ้าใช้งานใน replit ทางเราจะแนะนำให้ใช้งานแบบ Private เท่านั้นนะครับ เพื่อความปลอดภัย เพราะถ้าเกิดสร้างแบบ Public บุคคลอื่นจะสามารถเห็นโปรเจ็คของท่านได้ การสมัครการใช้งานเพื่อเปิดให้ Private นั้นจะมีค่าบริการ สามารถเข้าตรวจสอบรายละเอียดได้ที่ https://replit.com/pricing
+ 
